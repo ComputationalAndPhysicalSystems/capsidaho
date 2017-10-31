@@ -5,6 +5,6 @@ title: Code
 Code maintained and used by the CAPS lab:
 
  * [brevis](http://brevis.us/)
- * [funimage](https://github.com/funimage/funimage)
- * [ThreeDViewer](https://github.com/kephale/ThreeDViewer)
+ * [fun.imagej](https://github.com/kephale/fun.imagej)
+ * [SciView](https://github.com/scenerygraphics/SciView)
  * [This website](https://github.com/kephale/capsidaho)
