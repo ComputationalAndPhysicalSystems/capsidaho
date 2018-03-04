@@ -22,6 +22,8 @@ roles:
     - {key: grad, name: Graduate Students}
     - {key: undergrad, name: Undergraduate Students}
     - {key: visitor, name: Visitors}
+    - {key: alum_undergrad, name: Alumni (undergraduate)}
+    - {key: alum_visitor, name: Alumni (visitors)}
 #    - {key: collab, name: Collaborators}
 #    - {key: alum, name: Alumni}
 

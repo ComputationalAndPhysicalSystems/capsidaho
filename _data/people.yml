@@ -16,15 +16,15 @@ lmagbunduku:
 
 amcnutt:
     display_name: "Alice McNutt"
-    role: undergrad
+    role: alum_undergrad
 
 itanimoto:
     display_name: "Ian Tanimoto"
-    role: undergrad
+    role: alum_undergrad
 
 tdevault:
     display_name: "Travis DeVault"
-    role: visitor
+    role: alum_visitor
 
 zdubois:
     display_name: "Zeth duBois"
