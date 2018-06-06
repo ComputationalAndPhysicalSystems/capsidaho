@@ -26,6 +26,22 @@ tdevault:
     display_name: "Travis DeVault"
     role: alum_visitor
 
+rwiese:
+    display_name: "Robert Wiese"
+    role: alum_visitor
+
 zdubois:
     display_name: "Zeth duBois"
     role: grad
+
+nhurlocker:
+    display_name: "Nathan Hurlocker"
+    role: undergrad
+
+jsmith:
+    display_name: "Jessica Smith"
+    role: staff
+
+cmearns:
+    display_name: "Conrad Mearns"
+    role: undergrad
