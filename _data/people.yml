@@ -4,7 +4,7 @@ kyle:
     github: kephale
     role: faculty
     bio: |
-        Kyle Harrington is the founder and director of the CAPS group. Kyle is an assistant professor at the University of Idaho. 
+        Kyle Harrington is the founder and director of the CAPS group. Kyle is an assistant professor at the University of Idaho.
 
 lepstein:
     display_name: "Leo Epstein"
@@ -44,4 +44,8 @@ jsmith:
 
 cmearns:
     display_name: "Conrad Mearns"
+    role: undergrad
+
+cmearns:
+    display_name: "Spencer Colvin"
     role: undergrad
