@@ -4,28 +4,73 @@ kyle:
     github: kephale
     role: faculty
     bio: |
-        Kyle Harrington is the founder and director of the CAPS group. Kyle is an assistant professor at the University of Idaho. 
+        Kyle Harrington is the founder and director of the CAPS group. Kyle is an assistant professor at the University of Idaho.
 
 lepstein:
-    display_name: ["Leo Epstein"](morphogenetics.github.io)
+    display_name: Leo Epstein
+    webpage: "https://morphogenetics.github.io"
     role: grad
+    bio: |
+      Bioinformatics and Computational Biology, University of Idaho
 
 lmagbunduku:
     display_name: "Louise Magbunduku"
     role: undergrad
+    bio: |
+      Virtual Technology and Design, University of Idaho
 
 amcnutt:
     display_name: "Alice McNutt"
     role: alum_undergrad
+    bio: |
+      Virtual Technology and Design, University of Idaho
 
 itanimoto:
     display_name: "Ian Tanimoto"
     role: alum_undergrad
+    bio: |
+      Computer Science, University of Idaho
 
 tdevault:
     display_name: "Travis DeVault"
     role: alum_visitor
+    bio: |
+      Computer Science, University of Idaho
+
+rwiese:
+    display_name: "Robert Wiese"
+    role: alum_visitor
+    webpage: "http://www.geo.fu-berlin.de/en/geol/fachrichtungen/pal/mitarbeiter/wissenschaftliche-mitarbeiter/wiese02/index.html"
+    bio: |
+      Paleontology, Free University of Berlin
 
 zdubois:
     display_name: "Zeth duBois"
     role: grad
+    bio: |
+      Virtual Technology and Design, University of Idaho
+
+nhurlocker:
+    display_name: "Nathan Hurlocker"
+    webpage: "https://wrongapocalypse.github.io/Portfolio/"
+    role: undergrad
+    bio: |
+      Virtual Technology and Design, University of Idaho
+
+jsmith:
+    display_name: "Jessica Smith"
+    role: staff
+    bio: |
+      Computational And Physical Systems Group, University of Idaho
+
+cmearns:
+    display_name: "Conrad Mearns"
+    role: undergrad
+    bio: |
+      Computer Science, University of Idaho
+
+scolvin:
+    display_name: "Spencer Colvin"
+    role: undergrad
+    bio: |
+      Fish and Wildlife Sciences, University of Idaho
