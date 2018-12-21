@@ -7,7 +7,8 @@ kyle:
         Kyle Harrington is the founder and director of the CAPS group. Kyle is an assistant professor at the University of Idaho.
 
 lepstein:
-    display_name: "Leo Epstein"
+    display_name: Leo Epstein
+    webpage: "https://morphogenetics.github.io"
     role: grad
     bio: |
       Bioinformatics and Computational Biology, University of Idaho
