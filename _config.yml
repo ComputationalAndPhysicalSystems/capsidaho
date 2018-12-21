@@ -41,8 +41,8 @@ navigation:
       link: /people.html
     - title: Research
       link: /research/
-    - title: Education
-      link: /education/
+    - title: Resources
+      link: /resources/
     - title: Publications
       link: /publications.html
     - title: Code
