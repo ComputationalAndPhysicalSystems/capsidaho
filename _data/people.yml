@@ -15,7 +15,7 @@ lepstein:
 
 lmagbunduku:
     display_name: "Louise Magbunduku"
-    role: undergrad
+    role: alum_undergrad
     bio: |
       Virtual Technology and Design, University of Idaho
 
@@ -46,20 +46,20 @@ rwiese:
 
 zdubois:
     display_name: "Zeth duBois"
-    role: grad
+    role: alum_grad
     bio: |
       Virtual Technology and Design, University of Idaho
 
 nhurlocker:
     display_name: "Nathan Hurlocker"
     webpage: "https://wrongapocalypse.github.io/Portfolio/"
-    role: undergrad
+    role: alum_undergrad
     bio: |
       Virtual Technology and Design, University of Idaho
 
 jsmith:
     display_name: "Jessica Smith"
-    role: staff
+    role: alum_staff
     bio: |
       Computational And Physical Systems Group, University of Idaho
 
@@ -71,6 +71,6 @@ cmearns:
 
 scolvin:
     display_name: "Spencer Colvin"
-    role: undergrad
+    role: alum_undergrad
     bio: |
       Fish and Wildlife Sciences, University of Idaho
