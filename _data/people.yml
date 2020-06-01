@@ -46,7 +46,8 @@ rwiese:
 
 zdubois:
     display_name: "Zeth duBois"
-    role: alum_grad
+    role: staff
+#    role: alum_grad
     bio: |
       Virtual Technology and Design, University of Idaho
 

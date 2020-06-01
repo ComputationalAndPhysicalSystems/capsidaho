@@ -17,13 +17,13 @@ permalink: /blog/:year/:month/:day/:title.html
 # Sections on the "people" page.
 roles:
     - {key: faculty, name: Faculty}
-#    - {key: staff, name: Staff}
+    - {key: staff, name: Staff}
 #    - {key: postdoc, name: Researchers}
     - {key: grad, name: Graduate Students}
     - {key: undergrad, name: Undergraduate Students}
 #    - {key: visitor, name: Visitors}
     - {key: alum_undergrad, name: Alumni (undergraduate)}
-    - {key: alum_grad, name: Alumni (graduate)}
+#    - {key: alum_grad, name: Alumni (graduate)}
     - {key: alum_staff, name: Alumni (staff)}        
     - {key: alum_visitor, name: Alumni (visitors)}
 #    - {key: collab, name: Collaborators}
