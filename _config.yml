@@ -1,5 +1,5 @@
 name: Computational And Physical Systems lab
-url: http://www.capsidaho.com
+url: https://www.capsidaho.com
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
 
@@ -33,7 +33,7 @@ roles:
 front_page_news: 8
 
 # Base pathname for links.
-base: 'http://www.capsidaho.com'
+base: 'https://www.capsidaho.com'
 
 # Navigation bar links.
 navigation:
