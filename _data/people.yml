@@ -9,7 +9,7 @@ kyle:
 lepstein:
     display_name: Leo Epstein
     webpage: "https://morphogenetics.github.io"
-    role: grad
+    role: alum_grad
     bio: |
       Bioinformatics and Computational Biology, University of Idaho
 
@@ -46,8 +46,7 @@ rwiese:
 
 zdubois:
     display_name: "Zeth duBois"
-    role: staff
-#    role: alum_grad
+    role: alum_grad
     bio: |
       Virtual Technology and Design, University of Idaho
 
@@ -66,7 +65,7 @@ jsmith:
 
 cmearns:
     display_name: "Conrad Mearns"
-    role: undergrad
+    role: alum_undergrad
     bio: |
       Computer Science, University of Idaho
 
